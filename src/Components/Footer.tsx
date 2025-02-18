@@ -77,7 +77,7 @@ function Footer() {
                             <p className="text-sm">
                                 © {currentYear} Developed with{' '}
                                 <span role="img" aria-label="heart" className="text-red-500">
-                                    ❤️ heart
+                                    ❤️ 
                                 </span>{' '}
                                 by{' '}
                                 <a 
